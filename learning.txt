@@ -1,1 +1,3 @@
+What I have learned from this course
+
 So far in this course, I’ve learned how to use GitHub to manage version control. I now understand how to track changes, to collaborate with others, to work with branches and edite files in my repository or even clone the remote repository. Not to forget to fork other repositiries and modify them.
