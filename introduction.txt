@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Mugabo Victor.
+I am currently enrolled in the ALX Pathway program.
+This file serves as an introduction to my first Git project.
